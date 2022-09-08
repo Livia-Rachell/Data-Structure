@@ -8,4 +8,4 @@ Data Structures made in Java :rocket:
 > e condições de erros associados as operações.
 
 
-1. [Stack]()
+1. [Stack](https://github.com/Livia-Rachell/Data-Structure/tree/main/Stack)
