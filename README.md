@@ -1,11 +1,11 @@
 # Data Structure
 Data Structures made in Java :rocket:
 
-## Abstract Data Tipes(ADTs):
+## Abstract Data Tipes (ADTs):
 
-> Um TAD é uma abstração de uma estrutura de dados, que 
-> especifica: Dados armazenados, operações sobre os dados  
-> e condições de erros associados as operações.
+> A ADT is an abstraction of a data structure, which specifies:
+> Stored data, operations about the data, and error conditions 
+> associated with the operations.
 
 
 1. [Stack](https://github.com/Livia-Rachell/Data-Structure/tree/main/Stack)
