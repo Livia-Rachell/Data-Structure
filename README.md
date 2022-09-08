@@ -7,5 +7,4 @@
 > Stored data, operations about the data, and error conditions 
 > associated with the operations.
 
-
 1. [Stack](https://github.com/Livia-Rachell/Data-Structure/tree/main/Stack)
