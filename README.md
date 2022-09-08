@@ -1,5 +1,5 @@
 # Data Structure
-Data Structures made in Java :rocket:
+:rocket: Data Structures made in Java.
 
 ## Abstract Data Tipes (ADTs):
 
